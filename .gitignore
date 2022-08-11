@@ -1,0 +1,12 @@
+# dev files
+.vscode
+node_modules/
+
+# tf
+*.tfvars*
+.terraform/
+*.tfstate*
+
+# output
+dist/
+
